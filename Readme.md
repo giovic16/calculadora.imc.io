@@ -12,7 +12,7 @@
 
 ## Descrição
 <p> Link da proposta de mini projeto: https://fernandoleonid.github.io/mini-projetos-js/ </p>
-
+<p> Link do meu projeto https://giovic16.github.io/calculadora.imc.io/ </p>
 <br>
 
 - Realizado por Giovana Mendes
