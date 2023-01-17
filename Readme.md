@@ -11,7 +11,8 @@
 </div>
 
 ## Descrição
-<p> Link da proposta de mini projeto: <a href="https://fernandoleonid.github.io/mini-projetos-js/" target="_blank"></a> </p>
+<p> Link da proposta de mini projeto:</p>
+<a href="https://fernandoleonid.github.io/mini-projetos-js/" target="_blank"></a>
 <p> Link do meu projeto https://giovic16.github.io/calculadora.imc.io/ </p>
 <br>
 
